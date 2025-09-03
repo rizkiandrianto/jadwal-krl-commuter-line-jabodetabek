@@ -154,7 +154,7 @@ Data yang telah dinormalisasi dengan kolom:
 - Name: Nama lengkap stasiun (contoh: "Cawang", "Bekasi")
 - Alias: Alias stasiun untuk pencarian (contoh: "cawang, cwg")
 
-## > Kontribusi
+## 🤝 Kontribusi
 
 Kontribusi sangat diterima! Beberapa cara untuk berkontribusi:
 
